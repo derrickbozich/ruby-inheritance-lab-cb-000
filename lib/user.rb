@@ -3,6 +3,3 @@ class User
 
 
 end
-
-# user = User.new("Jerry", "Pell")
-# student = Student.new
